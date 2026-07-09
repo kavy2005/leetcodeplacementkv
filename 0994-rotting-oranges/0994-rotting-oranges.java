@@ -2,24 +2,27 @@ class Solution {
 
     public int orangesRotting(int[][] grid) {
 
+        int rows = grid.length;
+        int cols = grid[0].length;
+
+        boolean[][] visited = new boolean[rows][cols];
+
         Queue<int[]> q = new LinkedList<>();
 
         int fresh = 0;
 
-        int rows = grid.length;
-        int cols = grid[0].length;
-
-        // Put all rotten oranges into queue
-        // Count fresh oranges
         for(int i=0;i<rows;i++){
 
             for(int j=0;j<cols;j++){
 
                 if(grid[i][j]==2){
+
                     q.offer(new int[]{i,j});
+                    visited[i][j]=true;
                 }
 
                 else if(grid[i][j]==1){
+
                     fresh++;
                 }
             }
@@ -28,10 +31,10 @@ class Solution {
         if(fresh==0)
             return 0;
 
-        int time=0;
-
         int[] dr={-1,1,0,0};
         int[] dc={0,0,-1,1};
+
+        int time=0;
 
         while(!q.isEmpty()){
 
@@ -53,7 +56,10 @@ class Solution {
                        nc>=0 &&
                        nr<rows &&
                        nc<cols &&
-                       grid[nr][nc]==1){
+                       grid[nr][nc]==1 &&
+                       !visited[nr][nc]){
+
+                        visited[nr][nc]=true;
 
                         grid[nr][nc]=2;
 
