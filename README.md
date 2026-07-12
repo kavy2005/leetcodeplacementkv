@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -28,16 +29,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0310-minimum-height-trees) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
