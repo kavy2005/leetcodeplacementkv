@@ -63,8 +63,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
