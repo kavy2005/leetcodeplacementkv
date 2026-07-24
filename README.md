@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0137-single-number-ii) |
 | [0994-rotting-oranges](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0994-rotting-oranges) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0371-sum-of-two-integers) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
