@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0994-rotting-oranges) |
 | [1920-build-array-from-permutation](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1920-build-array-from-permutation) |
 ## Breadth-First Search
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
