@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0860-lemonade-change) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
 | [1920-build-array-from-permutation](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1920-build-array-from-permutation) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0076-minimum-window-substring) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0076-minimum-window-substring) |
+| [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0076-minimum-window-substring) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
