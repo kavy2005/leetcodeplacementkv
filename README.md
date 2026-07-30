@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0152-maximum-product-subarray) |
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0994-rotting-oranges) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
