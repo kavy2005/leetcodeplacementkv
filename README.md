@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0875-koko-eating-bananas) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
