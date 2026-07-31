@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0860-lemonade-change) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0860-lemonade-change) |
 ## Sorting
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0033-search-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
