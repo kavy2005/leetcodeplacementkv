@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0875-koko-eating-bananas) |
