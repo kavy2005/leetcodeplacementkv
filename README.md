@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0310-minimum-height-trees) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0310-minimum-height-trees) |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
