@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0055-jump-game) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0137-single-number-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -175,10 +177,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
