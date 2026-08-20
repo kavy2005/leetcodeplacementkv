@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
