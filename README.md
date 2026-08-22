@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0371-sum-of-two-integers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
