@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0371-sum-of-two-integers) |
+| [1927-sum-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0860-lemonade-change) |
+| [1927-sum-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0076-minimum-window-substring) |
+| [1927-sum-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1927-sum-game) |
 ## Counting
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
