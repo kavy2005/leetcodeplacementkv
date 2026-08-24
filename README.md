@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1672-richest-customer-wealth) |
+| [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
+| [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0002-add-two-numbers) |
 | [0371-sum-of-two-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0371-sum-of-two-integers) |
+| [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
 ## String
 |  |
 | ------- |
@@ -210,5 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
