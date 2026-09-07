@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
 ## Math
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kavy2005/leetcodeplacementkv/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
