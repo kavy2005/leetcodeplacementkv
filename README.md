@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0338-counting-bits) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0371-sum-of-two-integers) |
 | [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1927-sum-game) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
