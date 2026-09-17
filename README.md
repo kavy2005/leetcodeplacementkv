@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1672-richest-customer-wealth) |
 | [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kavy2005/leetcodeplacementkv/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kavy2005/leetcodeplacementkv/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
