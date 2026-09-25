@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0076-minimum-window-substring) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0455-assign-cookies) |
+| [1096-brace-expansion-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1096-brace-expansion-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kavy2005/leetcodeplacementkv/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kavy2005/leetcodeplacementkv/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kavy2005/leetcodeplacementkv/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -310,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/kavy2005/leetcodeplacementkv/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
